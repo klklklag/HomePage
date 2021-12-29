@@ -1,15 +1,14 @@
 "use strict";
-const express = require('express');
+var __importDefault = (this && this.__importDefault) || function (mod) {
+    return (mod && mod.__esModule) ? mod : { "default": mod };
+};
+Object.defineProperty(exports, "__esModule", { value: true });
+const express_1 = __importDefault(require("express"));
 const port = process.env.PORT || 5000;
-const app = express();
+const app = (0, express_1.default)();
 app.get('/', (req, res) => {
     res.send("HELLO WORLD!");
 });
-app.listen(port, (error) => {
-    if (error) {
-        console.log(`Error: ${error.message}`);
-    }
-    else {
-        console.log(`Listening on port ${port}`);
-    }
+app.listen(port, () => {
+    console.log(`Listening on port ${port}`);
 });
