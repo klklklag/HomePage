@@ -1,16 +1,11 @@
-const express = require('express');
+import express, { Request, Response } from 'express';
 const port = process.env.PORT || 5000;
 const app = express();
 
-app.get('/', (req, res) => {
+app.get('/', (req: Request, res: Response) => {
   res.send("HELLO WORLD!");
-})
+});
 
-app.listen(port, (error) => {
-  if (error) {
-    console.log(`Error: ${error.message}`);
-  }
-  else {
-    console.log(`Listening on port ${port}`);
-  }
+app.listen(port, () => {
+  console.log(`Listening on port ${port}`);
 })
