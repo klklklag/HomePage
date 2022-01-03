@@ -1,0 +1,17 @@
+<svg id="board_ic_board_upload" data-name="board/ic_board_upload" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #101314;
+      }
+    </style>
+  </defs>
+  <rect id="Rectangle" class="cls-1" width="20" height="20"/>
+  <g id="upload" transform="translate(3 3)">
+    <path id="Combined_Shape" data-name="Combined Shape" class="cls-2" d="M.933,15A.936.936,0,0,1,0,14.063v-3.75H1.867v2.813H12.133V10.312H14v3.75a.935.935,0,0,1-.933.938Zm5.134-3.75a.468.468,0,0,1-.467-.469V4.687H3.733a.468.468,0,0,1-.351-.777L6.649.16a.465.465,0,0,1,.7,0l3.266,3.75a.468.468,0,0,1-.351.777H8.4v6.094a.467.467,0,0,1-.466.469Z"/>
+  </g>
+</svg>

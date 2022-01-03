@@ -1,0 +1,6 @@
+<svg id="board_ic_board_Download" data-name="board/ic_board_Download" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20" fill="#101314">
+  <g id="download" transform="translate(3 2)">
+    <path id="Path" fill="current" d="M7.955,7.293A.5.5,0,0,0,7.5,7h-2V.5A.5.5,0,0,0,5,0H3a.5.5,0,0,0-.5.5V7H.5a.5.5,0,0,0-.376.829l3.5,4a.5.5,0,0,0,.752,0l3.5-4A.5.5,0,0,0,7.955,7.293Z" transform="translate(3.5)"/>
+    <path id="Path-2" data-name="Path" fill="current" d="M13,0V3H2V0H0V4A1,1,0,0,0,1,5H14a1,1,0,0,0,1-1V0Z" transform="translate(0 11)"/>
+  </g>
+</svg>

@@ -1,0 +1,12 @@
+<svg id="but_input_search" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+    <defs>
+        <style>
+            .cls-2{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10}
+        </style>
+    </defs>
+    <path id="Rectangle_Copy_2" data-name="Rectangle Copy 2" style="fill:none" d="M0 0h16v16H0z"/>
+    <g id="search" transform="translate(2.667 2.667)">
+        <circle id="Oval" class="cls-2" cx="4.444" cy="4.444" r="4.444"/>
+        <path id="Shape" class="cls-2" d="M3.081 3.081 0 0" transform="translate(7.585 7.585)"/>
+    </g>
+</svg>

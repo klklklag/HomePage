@@ -1,0 +1,19 @@
+<svg id="icon_ic_Join_audit2" data-name="icon/ic_Join_audit2" xmlns="http://www.w3.org/2000/svg" width="56" height="56" viewBox="0 0 56 56">
+    <defs>
+        <style>
+            cls-2{fill:#febd1c}.cls-3{fill:#fff}.cls-4{fill:#ededed}
+        </style>
+    </defs>
+    <g id="Group_3" data-name="Group 3">
+        <path id="Fill_1" data-name="Fill 1" fill="#ffdb4c" d="M28 0A28 28 0 1 1 0 28 28 28 0 0 1 28 0"/>
+    </g>
+    <path id="Fill_4" data-name="Fill 4" d="M31.682 2.861V34.7a2.861 2.861 0 0 1-2.861 2.861H2.861A2.861 2.861 0 0 1 0 34.7V10.923L10.923 0h17.9a2.861 2.861 0 0 1 2.861 2.861" transform="translate(12.736 9.799)" fill="#febd1c"/>
+    <path id="Fill_6" data-name="Fill 6" class="cls-3" d="M31.682 2.861V34.7a2.861 2.861 0 0 1-2.861 2.861H2.861A2.861 2.861 0 0 1 0 34.7V10.923L10.923 0h17.9a2.861 2.861 0 0 1 2.861 2.861" transform="translate(11.581 8.645)"/>
+    <path id="Fill_8" data-name="Fill 8" class="cls-4" d="M31.433 2.616V34.45a2.862 2.862 0 0 1-2.862 2.862H2.61A2.865 2.865 0 0 1 0 35.618a2.891 2.891 0 0 0 1.156.24h19.8a9.023 9.023 0 0 0 9.023-9.023V1.162A2.812 2.812 0 0 0 29.732 0a2.863 2.863 0 0 1 1.701 2.616z" transform="translate(11.829 8.891)"/>
+    <path id="Fill_10" data-name="Fill 10" class="cls-4" d="M11.63 0v8.584a3.046 3.046 0 0 1-3.046 3.046H0v-.708L10.922 0z" transform="translate(11.581 8.645)"/>
+    <path id="Fill_12" data-name="Fill 12" d="M10.923 0v8.062a2.861 2.861 0 0 1-2.861 2.861H0z" transform="translate(11.581 8.645)" fill="#febd1c"/>
+    <path id="Fill_14" data-name="Fill 14" fill="#ffdb4c" d="M14.347 7.174A7.174 7.174 0 1 1 7.174 0a7.173 7.173 0 0 1 7.174 7.174" transform="translate(20.249 22.73)"/>
+    <path id="Fill_16" data-name="Fill 16" class="cls-3" d="M2.66 1.33A1.33 1.33 0 1 1 1.33 0a1.33 1.33 0 0 1 1.33 1.33" transform="translate(26.093 28.574)"/>
+    <path id="Fill_18" data-name="Fill 18" class="cls-3" d="M2.66 1.33A1.33 1.33 0 1 1 1.33 0a1.33 1.33 0 0 1 1.33 1.33" transform="translate(29.865 28.574)"/>
+    <path id="Fill_20" data-name="Fill 20" class="cls-3" d="M2.66 1.33A1.33 1.33 0 1 1 1.33 0a1.33 1.33 0 0 1 1.33 1.33" transform="translate(21.882 28.574)"/>
+</svg>

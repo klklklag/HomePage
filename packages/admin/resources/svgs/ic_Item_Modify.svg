@@ -1,0 +1,17 @@
+<svg id="ic_Item_Modify" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #979ca0;
+      }
+    </style>
+  </defs>
+  <g id="Group_7" data-name="Group 7">
+    <rect id="Rectangle_Copy_49" data-name="Rectangle Copy 49" class="cls-1" width="24" height="24"/>
+    <path id="Fill_1009" data-name="Fill 1009" class="cls-2" d="M3.265,14H.632A.633.633,0,0,1,0,13.369V10.734A1.882,1.882,0,0,1,.555,9.4L9.4.554a1.9,1.9,0,0,1,2.678,0l1.372,1.371a1.895,1.895,0,0,1,0,2.679l-8.84,8.841A1.883,1.883,0,0,1,3.265,14ZM8.209,3.527h0L1.448,10.288a.627.627,0,0,0-.185.446v2h2a.628.628,0,0,0,.447-.184l6.761-6.761L8.209,3.527Zm2.526-2.264a.63.63,0,0,0-.447.184L9.1,2.634,11.366,4.9l1.186-1.187a.632.632,0,0,0,0-.893L11.181,1.447A.628.628,0,0,0,10.735,1.263Z" transform="translate(5 5)"/>
+  </g>
+</svg>
